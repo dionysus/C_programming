@@ -1,6 +1,11 @@
+# C Learning #
+##############
+
+cmake-build-debug/
+
+
 # CSC148 SPECIFIC #
 ###################
-
 pyta_report.html
 
 # OS generated files #
